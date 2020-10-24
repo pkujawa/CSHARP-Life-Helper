@@ -1,0 +1,34 @@
+c:\users\paulina\documents\visual studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\bin\Debug\PaulinaKujawaHomework3.exe.config
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Properties.Resources.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.csproj.GenerateResource.Cache
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\bin\Debug\PaulinaKujawaHomework3.exe
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\bin\Debug\PaulinaKujawaHomework3.pdb
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.exe
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.pdb
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.MainWindow.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Myweek.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.MyWeek.Plan.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.MyWeek.Details.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Grandma.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.To_Watch.ToWatch.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Additional.Additional.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Calories.Calories.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework3\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Friend.Friend.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\bin\Debug\PaulinaKujawaHomework3.exe.config
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\bin\Debug\PaulinaKujawaHomework3.exe
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\bin\Debug\PaulinaKujawaHomework3.pdb
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.csprojAssemblyReference.cache
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Additional.Additional.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Calories.Calories.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Friend.Friend.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Grandma.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.MainWindow.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.MyWeek.Details.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Myweek.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.MyWeek.Plan.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.Properties.Resources.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.To_Watch.ToWatch.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.csproj.GenerateResource.cache
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.exe
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab3\Homework\PaulinaKujawaHomework3\obj\Debug\PaulinaKujawaHomework3.pdb
